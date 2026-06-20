@@ -4,8 +4,8 @@ import { AuthProvider } from "./context/AuthContext";
 import HomePage from "./pages/HomePage";
 import LoginPage from "./pages/LoginPage";
 import SignupPage from "./pages/SignUp";
-import Navbar from "./pages/SignUp";
-import FloatingChatButton from "./pages/SignUp";
+import Navbar from "./components/Navbar";
+import FloatingChatButton from "./components/FloatingChatButton";
 const WithNavbar = ({ children }: { children: React.ReactNode }) => (
   <>
     <Navbar />

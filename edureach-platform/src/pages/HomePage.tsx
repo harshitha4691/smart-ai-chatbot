@@ -2,17 +2,17 @@ import { useState } from "react";
 import { useAuth } from "../context/AuthContext";
 import SignupPopup from "../components/SignupPopup";
 import CallPopup from "../components/CallPopup";
-import AboutSection  from "../components/CallPopup";
-import AchievementsSection from "../components/CallPopup";
-import CounselorCTA from "../components/CallPopup";
-import CoursesSection from "../components/CallPopup";
-import EventsGallery from "../components/CallPopup";
-import Footer from "../components/CallPopup";
-import HeroSection from "../components/CallPopup";
-import HiringStatsSection from "../components/CallPopup";
-import MentorsSection from "../components/CallPopup";
-import QuotesSection from "../components/CallPopup";
-import StudentLifeSection from "../components/CallPopup";
+import AboutSection  from "../components/AboutSection";
+import AchievementsSection from "../components/AchievementsSection";
+import CounselorCTA from "../components/CounselorCTA";
+import CoursesSection from "../components/CoursesSection";
+import EventsGallery from "../components/EventsGallery";
+import Footer from "../components/Footer";
+import HeroSection from "../components/HeroSection";
+import HiringStatsSection from "../components/HiringStatsSection";
+import MentorsSection from "../components/MentorsSection";
+import QuotesSection from "../components/QuotesSection";
+import StudentLifeSection from "../components/StudentLifeSection";
 
 
 
