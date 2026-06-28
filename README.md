@@ -55,7 +55,7 @@ EduReach is a full-stack, AI-powered university portal designed to bridge the ga
                        |  - MongoDB Atlas (Users) |
                        |  - Knowledge Base (RAG) |
                        +-------------------------+
-PROJECT STRUCTURE
+**PROJECT STRUCTURE**
 
 edureach-platform/
 |
